@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor configs
+.vscode/
+*.code-workspace
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Data and logs
+*.csv
+*.tsv
+*.xlsx
+*.log
+
+# Secrets and config
+*.env
+*.local
+
+# Model files
+*.pkl
+*.h5
+*.pt
+*.joblib
+
+# Others
+*.bak
